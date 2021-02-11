@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/alex19861108/Tiger/cmd"
+	"github.com/AlexReagan/Tiger/cmd"
 	"os"
 
 	"github.com/spf13/cobra"
